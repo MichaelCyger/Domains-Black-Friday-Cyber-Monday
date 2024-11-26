@@ -276,4 +276,4 @@ Please read our [Contributing Guidelines](https://github.com/MichaelCyger/domain
 
 ## Contributors
 
-Thanks to all the contributors who help maintain this list!
+Thanks to all the [contributors](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/graphs/contributors) who help maintain this list!
