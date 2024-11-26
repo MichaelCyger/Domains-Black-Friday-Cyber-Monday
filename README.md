@@ -65,18 +65,17 @@ The best domain deals of Black Friday 2024:
 | .me | $20.99 | $1.69 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .me | $16.06 | $7.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 
-
 ### Geographic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 | .asia | $4.99 | $2.69 | Dynadot | Nov 23 - Dec 7, 2024 23:59 UTC | - |
 | .asia | $10.79 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .boston  | $15.93  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
 | .cv | $15.99 | $2.99 | Dynadot | Nov 29 - Dec 3, 2024 23:59 UTC | - |
+| .miami   | $15.93  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
 | .my | $21.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .nyc | $20.99 | $5.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .vegas | $37.99 | $10.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
-| .boston  | $15.93  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .miami   | $15.93  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
 
 ### Industry/Purpose TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
@@ -91,113 +90,112 @@ The best domain deals of Black Friday 2024:
 ### New gTLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
+| .academy | $34.45 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .agency | $19.03 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .agency | $22.10 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .art | $9.99 | $1.79 | Dynadot | Nov 27 - Dec 3, 2024 23:59 UTC | - |
 | .art | $21.09 | $3.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .bar | $20.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .bar | $51.99 | $2.55 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .bet | $19.02 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .blog | $21.09 | $3.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .bond | $2.99 | $1.79 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
 | .bond | $9.76 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .buzz | $26.24 | $1.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .cfd | $1.99 | $0.99 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
 | .cfd | $9.76 | $1.20 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .chat | $28.28 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .christmas | $35.75 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .city | $18.00 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .click | $1.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .click | $9.76 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .club | $4.49 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .club | $12.84 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .club | $12.85 | $4.10 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .company | $13.36 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .cyou | $1.99 | $0.99 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
 | .cyou | $9.76 | $1.41 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .day | $14.99 | $5.99 | Dynadot | Nov 26 - Dec 4, 2024 00:00 UTC | - |
+| .design | $41.65 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .digital | $30.33 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .diy | $5.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .email | $20.06 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .email | $22.10 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .family | $28.28 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .finance | $46.80 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .food | $9.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .forum | $5.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .forum | $31.39 | $2.55 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .fun | $26.22 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .fyi | $3.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .fyi | $5.64 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .games | $24.16 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .global | $66.35 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .group | $14.91 | $6.16 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .group | $19.02 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .guru | $30.33 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .help | $4.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .help | $21.09 | $1.52 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .hockey | $42.68 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .icu | $1.94 | $1.29 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
 | .icu | $9.76 | $1.73 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .js | $4.49 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .legal | $46.84 | $5.64 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .life | $27.25 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .lifestyle | $9.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .live | $3.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .live | $24.16 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .living | $9.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .llc | $30.33 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .love | $9.99 | $2.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .love | $21.09 | $8.73 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .marketing | $29.33 | $6.67 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .media | $29.33 | $6.16 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .media | $33.42 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .moe | $12.85 | $6.67 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .money | $28.28 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .mov | $14.99 | $5.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .network | $25.19 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .news | $24.16 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .one | $1.49 | $1.69 | Dynadot | Nov 29 - Dec 3, 2024 23:59 UTC | - |
 | .one | $13.88 | $2.60 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .online | $26.22 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .pro | $18.50 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .property | $28.99 | $9.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .property | $103.48 | $18.00 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .realty | $28.99 | $9.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .rest | $1.99 | $0.99 | Dynadot | Nov 29 - Dec 3, 2024 23:59 UTC | - |
 | .rest | $26.24 | $2.55 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .rip | $15.94 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .rip | $16.96 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .rocks | $15.93 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .sbs | $1.99 | $0.99 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
 | .sbs | $9.76 | $1.20 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .services | $29.31 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .shop | $25.21 | $1.52 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .site | $26.22 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .social | $28.28 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .solutions | $23.13 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .space | $21.07 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .store | $41.65 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .studio | $15.65 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .studio | $32.39 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .systems | $25.19 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .team | $27.25 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .tech | $41.65 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .technology | $21.07 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .today | $21.07 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .tube | $21.09 | $6.11 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .vip | $12.84 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .vision | $26.24 | $5.64 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .work | $7.70 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .world | $30.33 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .wtf | $24.18 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .wtf | $26.22 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .xyz | $1.99 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .xyz | $11.81 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .xyz | $11.82 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
-| .online  | $26.22  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .site    | $26.22  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .pro     | $18.50  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .group   | $19.02  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .live    | $24.16  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .life    | $27.25  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .digital | $30.33  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .tech    | $41.65  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .store   | $41.65  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .space   | $21.07  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .fun     | $26.22  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .bet     | $19.02  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .today   | $21.07  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .world   | $30.33  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .agency  | $22.10  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .studio  | $32.39  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .email   | $22.10  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .solutions| $23.13 | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .services| $29.31  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .media   | $33.42  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .network | $25.19  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .fyi     | $5.64   | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .company | $13.36  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .news    | $24.16  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .zone    | $28.28  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .academy | $34.45  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .rocks   | $15.93  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .global  | $66.35  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .guru    | $30.33  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .team    | $27.25  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .games   | $24.16  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .social  | $28.28  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .llc     | $30.33  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .chat    | $28.28  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .wtf     | $26.22  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .systems | $25.19  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .family  | $28.28  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .finance | $46.80  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .technology| $21.07| 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .rip     | $16.96  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .money   | $28.28  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .hockey  | $42.68  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .club    | $12.84  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .design  | $41.65  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .vip     | $12.84  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .work    | $7.70   | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-| .xyz     | $11.81  | 2-for-1 up to $100  | UnstoppableDomains.com  | Dec 2, 2024  | -     |
-
+| .zone | $28.28 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 
 [⬆️ Go to Top](#table-of-contents)
 
