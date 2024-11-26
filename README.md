@@ -10,7 +10,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 89
+Total deals: 146
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -242,6 +242,7 @@ Discounts on premium domain names:
 - [Dynadot Black Friday Sale](https://www.dynadot.com/black-friday-sale)
 - [Name.com Black Friday Deals](https://domainnamewire.com/2024/11/21/black-friday-4-49-com-9-99-io-at-name-com/)
 - [Porkbun Black Friday Event](https://porkbun.com/event/blackfriday)
+- [Unstoppable Domains Cyber Monday: Buy One, Get One Free!](https://unstoppabledomains.com/blog/categories/announcements/article/cyber-monday-2024)
 
 [⬆️ Go to Top](#table-of-contents)
 
