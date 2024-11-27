@@ -32,8 +32,8 @@ The best domain deals of Black Friday 2024:
 
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
-| .com registration | $12.99 | $4.49 | Name.com | Nov 24-27, 2024 | - |
-| .com + .pro bundle | $19.98 | $4.49 | Name.com | Nov 24-27, 2024 | - |
+| .com registration | $12.99 | $4.49 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | - |
+| .com + .pro bundle | $19.98 | $4.49 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | - |
 | .io + .tech bundle | $22.98 | $8.99 | Dynadot | Nov 25 - Dec 2, 2024 00:00-23:59 UTC | - |
 | 2-for-1 on all TLDs | na | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 
@@ -46,7 +46,7 @@ The best domain deals of Black Friday 2024:
 |-----|----------------|------------|-----------|--------|------|
 | .biz | $5.99 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .biz | $15.94 | $5.13 | Porkbun | Nov 27 - Dec 1, 2024 | - |
-| .com | $12.99 | $4.99 | Name.com | Nov 24-27, 2024 | - |
+| .com | $12.99 | $4.99 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | - |
 | .com | $11.05 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .info | $3.85 | $1.99 | Dynadot | Nov 29 - Dec 3, 2024 00:00 UTC | - |
 | .info | $18.50 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
@@ -217,9 +217,9 @@ Special pricing when registering multiple TLDs together:
 
 | Bundle | Original Price | Sale Price | Registrar | Dates | Notes |
 |--------|----------------|------------|-----------|--------|-------|
-| .com + .pro | $19.98 | $4.49 | Name.com | Nov 24-27, 2024 | Same SLD required |
+| .com + .pro | $19.98 | $4.49 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | Same SLD required |
 | .io + .tech | $22.98 | $8.99 | Dynadot | Nov 25 - Dec 2, 2024 00:00-23:59 UTC | Same SLD required |
-| .io + .tech | $46.65 | $9.99 | Name.com | Nov 24-27, 2024 | Same SLD required |
+| .io + .tech | $46.65 | $9.99 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | Same SLD required |
 | 2-for-1 on all TLDs | na | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | any two domains, including sedoMLS listings |
 
 [⬆️ Go to Top](#table-of-contents)
