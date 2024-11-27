@@ -241,7 +241,9 @@ Discounts on premium domain names:
 ## 📚 Education
 | Topic | Original Price | Sale Price | Company | Dates | Notes |
 |--------|----------------|------------|-----------|--------|-------|
-| [The DNS course for developers](https://www.nslookup.io/dns-course/) | $149 | $49 | Ruurtjan Pul | Nov 27 - Dec 1, 2024 | - |
+| [The DNS course for developers](https://www.nslookup.io/dns-course/) | $149 | $49 | Ruurtjan Pul | Nov 27 - Dec 3, 2024 | - |
+
+[⬆️ Go to Top](#table-of-contents)
 
 ## 📰 Sources
 
