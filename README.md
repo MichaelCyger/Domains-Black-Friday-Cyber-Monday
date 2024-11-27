@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 146
+Total deals: 147
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -23,6 +23,7 @@ Total deals: 146
 - [🔄 Domain Transfer Deals](#-domain-transfer-deals)
 - [🎯 Bundle Deals](#-bundle-deals)
 - [💎 Premium Domain Deals](#-premium-domain-deals)
+- [📚 Education](#-education)
 - [📰 Sources](#-sources)
 - [🏷️ Add a Deal](#️-add-a-deal)
 
@@ -236,6 +237,11 @@ Discounts on premium domain names:
 | 30% Off | 30% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .my, .realty |
 
 [⬆️ Go to Top](#table-of-contents)
+
+## 📚 Education
+| Topic | Original Price | Sale Price | Company | Dates | Notes |
+|--------|----------------|------------|-----------|--------|-------|
+| [The DNS course for developers](https://www.nslookup.io/dns-course/) | $149 | $49 | Ruurtjan Pul | Nov 27 - Dec 1, 2024 | - |
 
 ## 📰 Sources
 
