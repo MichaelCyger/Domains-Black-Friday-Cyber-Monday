@@ -33,6 +33,7 @@ The best domain deals of Black Friday 2024:
 
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
+| .co registration | $23.98 | $2.59 | Spaceship | Nov 27 - Dec 1, 2024 | - |
 | .com registration | $12.99 | $4.99 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | - |
 | .com + .pro bundle | $19.98 | $4.49 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | - |
 | .io + .tech bundle | $22.98 | $8.99 | Dynadot | Nov 25 - Dec 2, 2024 00:00-23:59 UTC | - |
