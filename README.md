@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 213
+Total deals: 214
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -67,6 +67,7 @@ The best domain deals of Black Friday 2024:
 | .co | $27.99 | $3.89 | NameSilo | Nov 27 - Dec 8, 2024 | - |
 | .co | $27.99 | $10.99 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .co | $25.03 | $9.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .co | $23.98 | $2.59 | Spaceship | Nov 27 - Dec 1, 2024 | - |
 | .io | $37.99 | $15.99 | Dynadot | Nov 29 - Dec 3, 2024 00:00 UTC | - |
 | .io | $47.99 | $15.99 | NameSilo | Nov 27 - Dec 4, 2024 | - |
 | .io | $46.65 | $19.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
