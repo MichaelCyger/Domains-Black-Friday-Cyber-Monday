@@ -331,6 +331,7 @@ Discounts on premium domain names:
 - [BigRock Black Friday Deals](https://x.com/BigRock/status/1861362703471706420)
 - [Dynadot Black Friday Sale](https://www.dynadot.com/black-friday-sale)
 - [Name.com Black Friday Deals](https://domainnamewire.com/2024/11/21/black-friday-4-49-com-9-99-io-at-name-com/)
+- [Namecheap Black Friday Deals](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/)
 - [NameSilo Black Friday Deals](https://www.namesilo.com/discounts-and-promotions)
 - [Porkbun Black Friday Event](https://porkbun.com/event/blackfriday)
 - [Unstoppable Domains Cyber Monday: Buy One, Get One Free!](https://unstoppabledomains.com/blog/categories/announcements/article/cyber-monday-2024)
