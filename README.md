@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 214
+Total deals: 239
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -50,16 +50,21 @@ The best domain deals of Black Friday 2024:
 | .biz | $17.99 | $1.99 | NameSilo | Nov 27 - Dec 8, 2024 | - |
 | .biz | $17.99 | $5.36 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .biz | $15.94 | $5.13 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .biz | $18.98 | $1.78 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .com | $12.99 | $4.99 | Name.com | Nov 27 - Dec 3, 2024 17:00-06:59 UTC | - |
 | .com | $11.95 | $10.45 | NameSilo | Nov 27 - Dec 3, 2024 | - |
 | .com | $11.05 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .com | $14.98 | $7.49 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .info | $3.85 | $1.99 | Dynadot | Nov 29 - Dec 3, 2024 00:00 UTC | - |
 | .info | $18.50 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .info | $21.98 | $1.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .net | $12.99 | $3.49 | Dynadot | Nov 29 - Dec 3, 2024 04:59 UTC | - |
 | .net | $15.95 | $11.39 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .net | $11.48 | $3.33 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .net | $12.49 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .net | $14.98 | $3.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .org | $10.71 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .org | $12.98 | $6.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
@@ -73,8 +78,10 @@ The best domain deals of Black Friday 2024:
 | .io | $47.99 | $15.99 | NameSilo | Nov 27 - Dec 4, 2024 | - |
 | .io | $46.65 | $19.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .io | $36.80 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .io | $32.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .me | $20.99 | $1.69 | Dynadot | Nov 29 - Dec 5, 2024 23:59 UTC | - |
 | .me | $16.06 | $7.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .me | $18.98 | $1.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 
 ### Geographic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
@@ -93,9 +100,11 @@ The best domain deals of Black Friday 2024:
 | .in | $7.25 | $5.49 | NameSilo | Nov 27 - Nov 30, 2024 | - |
 | .miami | $15.93 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .my | $1.99 | $0.99 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
+| .my | $32.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .nyc | $22.99 | $5.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .us | $4.49 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .us | $7.99 | $4.75 | NameSilo | Nov 27 - Dec 31, 2024 | - |
+| .us | $8.48 | $2.48 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .vegas | $37.99 | $10.99 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
 | .vegas | $43.99 | $12.49 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 
@@ -145,8 +154,10 @@ The best domain deals of Black Friday 2024:
 | .click | $1.99 | $0.99 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
 | .click | $19.99 | $1.29 | NameSilo | Nov 27 - Dec 4, 2024 | - |
 | .click | $9.76 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .click | $11.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .cloud | $17.99 | $2.88 | NameSilo | Nov 27 - Dec 8, 2024 | - |
 | .cloud | $17.99 | $4.29 | NameSilo | Nov 27 - Dec 31, 2024 | - |
+| .cloud | $19.98 | $1.78 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .club | $4.49 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .club | $14.49 | $1.99 | NameSilo | Nov 27 - Dec 8, 2024 | - |
 | .club | $14.49 | $4.79 | NameSilo | Nov 27 - Dec 31, 2024 | - |
@@ -156,6 +167,7 @@ The best domain deals of Black Friday 2024:
 | .cyou | $1.39 | $0.99 | Dynadot | Nov 18 - Dec 6, 2024 14:00 UTC | - |
 | .cyou | $14.95 | $1.79 | NameSilo | Nov 27 - Dec 5, 2024 | - |
 | .cyou | $9.76 | $1.41 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .cyou | $15.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .day | $14.99 | $5.99 | Dynadot | Nov 28 - Dec 5, 2024 00:00 UTC | - |
 | .design | $45.95 | $9.95 | NameSilo | Nov 27 - Dec 8, 2024 | - |
 | .design | $41.65 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
@@ -187,6 +199,7 @@ The best domain deals of Black Friday 2024:
 | .icu | $14.95 | $1.79 | NameSilo | Nov 27 - Dec 5, 2024 | - |
 | .icu | $10.95 | $1.99 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .icu | $9.76 | $1.73 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .icu | $15.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .js | $4.49 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .legal | $46.84 | $5.64 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .life | $27.25 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
@@ -215,6 +228,7 @@ The best domain deals of Black Friday 2024:
 | .ooo | $10.79 | $9.49 | NameSilo | Nov 27 - Mar 31, 2025 | - |
 | .pics | $26.99 | $1.99 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .pro | $18.50 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .pro | $21.98 | $1.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .property | $99.99 | $9.99 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
 | .property | $114.99 | $9.99 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .property | $103.48 | $18.00 | Porkbun | Nov 27 - Dec 1, 2024 | - |
@@ -259,6 +273,7 @@ The best domain deals of Black Friday 2024:
 | .xyz | $11.48 | $2.49 | NameSilo | Nov 27 - Feb 28, 2025 | - |
 | .xyz | $11.82 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .xyz | $11.81 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .xyz | $13.98 | $1.48 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .zone | $28.28 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -269,7 +284,12 @@ Deals for transferring domains between registrars:
 
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
+| .ca | $11.98 | $8.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTR24 |
 | .com | $12.99 | $10.50 | Dynadot | Sep 1 - Dec 1, 2024 00:00 UTC | FALL1050 |
+| .com | $14.98 | $8.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTR24 |
+| .in | $7.98 | $5.48 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTR24 |
+| .net | $14.98 | $11.28 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTR24 |
+| .org | $12.98 | $9.68 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTR24 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -343,7 +363,7 @@ Please read our [Contributing Guidelines](https://github.com/MichaelCyger/domain
 
 ## Maintainers
 
-- [@MichaelCyger on Github](https://github.com/MichaelCyger) / [@MichaelCyger on X](https://x.com/MichaelCyger)
+- [@MichaelCyger on Github](https://github.com/MichaelCyger) / [@MichaelCyger on X](https://x.com/MichaelCyger) / [Mi.ke on the web](https://Mi.ke)
 
 ## Contributors
 
