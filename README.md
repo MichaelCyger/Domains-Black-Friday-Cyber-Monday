@@ -7,7 +7,7 @@ Find discounts on domain name registrations, transfers, premium domains, backord
 Don't forget to:
 - 👉 ...give this repo a star so it trends for Black Friday! ⭐ 
 - 👉 ...bookmark this page to come back here next year 2025! 📆
-- 👉 ...[confirm your local time as all times listed below are in UTC](https://alarmclocktab.com/current-time/utc/) 🕦
+- 👉 ...[confirm your local time as most times listed below are in UTC](https://alarmclocktab.com/current-time/utc/), [some in ET](https://alarmclocktab.com/current-time/new-york/) 🕦
 
 ## Table of Contents
 
