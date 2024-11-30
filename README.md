@@ -78,7 +78,7 @@ The best domain deals of Black Friday 2024:
 | .io | $47.99 | $15.99 | NameSilo | Nov 27 - Dec 4, 2024 | - |
 | .io | $46.65 | $19.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .io | $36.80 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
-| .io | $32.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
+| .io | $48.98 | $44.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .me | $20.99 | $1.69 | Dynadot | Nov 29 - Dec 5, 2024 23:59 UTC | - |
 | .me | $16.06 | $1.52 | Porkbun | Nov 27 - Dec 2, 2024 11:59 PM UTC | - |
 | .me | $18.98 | $1.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
