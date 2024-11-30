@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 242
+Total deals: 245
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -105,7 +105,7 @@ The best domain deals of Black Friday 2024:
 | .us | $4.49 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
 | .us | $7.99 | $4.75 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .us | $8.48 | $2.48 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
-| .vegas | $37.99 | $10.99 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
+| .vegas | $17.88 | $10.99 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
 | .vegas | $43.99 | $12.49 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 
 ### Industry/Purpose TLDs
@@ -143,6 +143,7 @@ The best domain deals of Black Friday 2024:
 | .bond | $2.29 | $1.79 | Dynadot | Nov 18 - Dec 6, 2024 14:00 UTC | - |
 | .bond | $14.95 | $2.29 | NameSilo | Nov 27 - Dec 5, 2024 | - |
 | .bond | $9.76 | $2.04 | Porkbun | Nov 27 - Dec 2, 2024 11:59 PM UTC | - |
+| .bot | $50.00 | $32.99 | Dynadot | Nov 18 - Dec 4, 2024 23:59 UTC | - |
 | .buzz | $26.24 | $1.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .buzz | $27.99 | $2.19 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .cfd | $1.39 | $0.99 | Dynadot | Nov 18 - Dec 6, 2024 14:00 UTC | - |
@@ -169,6 +170,7 @@ The best domain deals of Black Friday 2024:
 | .cyou | $9.76 | $1.41 | Porkbun | Nov 27 - Dec 1, 2024 | - |
 | .cyou | $15.98 | $0.98 | Namecheap | Nov 29 - Dec 6, 11:59 PM ET | BFCMTLD24 |
 | .day | $14.99 | $5.99 | Dynadot | Nov 28 - Dec 5, 2024 00:00 UTC | - |
+| .deal | $39.99 | $16.49 | Dynadot | Nov 18 - Dec 4, 2024 23:59 UTC | - |
 | .design | $45.95 | $9.95 | NameSilo | Nov 27 - Dec 8, 2024 | - |
 | .design | $41.69 | $3.07 | Porkbun | Nov 29 - Dec 2, 2024 11:59 PM UTC | - |
 | .design | $41.65 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
@@ -223,6 +225,7 @@ The best domain deals of Black Friday 2024:
 | .mov | $14.99 | $5.99 | Dynadot | Nov 28 - Dec 5, 2024 00:00 UTC | - |
 | .network | $25.19 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
 | .news | $24.16 | 2-for-1 up to $100 | UnstoppableDomains.com | Dec 2, 2024 | - |
+| .now | $39.99 | $16.49 | Dynadot | Nov 18 - Dec 4, 2024 23:59 UTC | - |
 | .one | $1.49 | $1.69 | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | - |
 | .one | $15.99 | $3.29 | NameSilo | Nov 27 - Dec 31, 2024 | - |
 | .one | $13.88 | $2.60 | Porkbun | Nov 27 - Dec 1, 2024 | - |
