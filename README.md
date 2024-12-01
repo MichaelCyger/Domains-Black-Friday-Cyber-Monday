@@ -329,7 +329,7 @@ Discounts on premium domain names:
 ## 💻 Software
 | Company | Discount | Dates | Notes |
 |---------|----------------|-----------|--------|
-| [NameBio Collector and Domainer tiers](https://namebio.com/memberships) | Use code CYBER35 for 35% Off | Dec 1 - Dec3, 2024 | Applies to Yearly subscriptions or first 3 months of Monthly |
+| [NameBio Collector and Domainer tiers](https://namebio.com/memberships) | Use code CYBER35 for 35% Off | Dec 1 - Dec 2, 2024 11:59 PM PT | Applies to Yearly subscriptions or first 3 months of Monthly, new subscriptions only |
 
 [⬆️ Go to Top](#table-of-contents)
 
