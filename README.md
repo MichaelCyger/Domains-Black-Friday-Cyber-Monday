@@ -23,6 +23,7 @@ Total deals: 245
 - [🔄 Domain Transfer Deals](#-domain-transfer-deals)
 - [🎯 Bundle Deals](#-bundle-deals)
 - [💎 Premium Domain Deals](#-premium-domain-deals)
+- [💻 Software](#-software)
 - [📚 Education](#-education)
 - [📰 Sources](#-sources)
 - [🏷️ Add a Deal](#️-add-a-deal)
@@ -322,6 +323,13 @@ Discounts on premium domain names:
 | 70% Off | 70% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .forum, .art, .cv |
 | 50% Off | 50% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .bar, .click, .diy, .food, .help, .lifestyle, .living, .love, .property, .rest |
 | 30% Off | 30% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .my, .realty |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 💻 Software
+| Company | Discount | Company | Dates | Notes |
+|--------|----------------|------------|-----------|--------|-------|
+| [NameBio Collector and Domainer tiers](https://namebio.com/memberships) | Use code CYBER35 for 35% Off | Dec 1 - Dec3, 2024 | Applies to Yearly subscriptions or first 3 months of Monthly |
 
 [⬆️ Go to Top](#table-of-contents)
 
