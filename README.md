@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 245
+Total deals: 246
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -327,8 +327,8 @@ Discounts on premium domain names:
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💻 Software
-| Company | Discount | Company | Dates | Notes |
-|--------|----------------|------------|-----------|--------|-------|
+| Company | Discount | Dates | Notes |
+|---------|----------------|-----------|--------|
 | [NameBio Collector and Domainer tiers](https://namebio.com/memberships) | Use code CYBER35 for 35% Off | Dec 1 - Dec3, 2024 | Applies to Yearly subscriptions or first 3 months of Monthly |
 
 [⬆️ Go to Top](#table-of-contents)
