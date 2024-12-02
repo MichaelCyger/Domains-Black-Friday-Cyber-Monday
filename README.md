@@ -1,6 +1,6 @@
 # 🌐 Domain Name Black Friday / Cyber Monday Deals - 2024 Edition 💰
 
-A curated list of domain name deals for Black Friday & Cyber Monday 2024.
+A curated list of domain name deals for Black Friday (Nov 29) & Cyber Monday (Dec 2) 2024.
 
 Find discounts on domain name registrations, transfers, premium domains, backorders, and domain-related services.
 
