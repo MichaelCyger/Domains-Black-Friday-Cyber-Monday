@@ -102,6 +102,7 @@ Discounts on premium domain names:
 | Company | Discount | Dates | Notes |
 |---------|----------|-------|--------|
 | **DomainDetails Pro** (https://domaindetails.com) | **50% off** (from 99€) — Code: **BFCM25** | Nov 14 – Dec 1, 2025 | Valid for new Pro subscriptions |
+| **Watch My Domains** ([DomainPunch.com](https://domainpunch.com)) | **50% off** full price — Code: **BLF2025** | Until Dec 2, 2025 | Desktop Editions (Windows/Mac): [Business](https://sites.fastspring.com/softnik/product/desktop-business?coupon=BLF2025), [Basic](https://sites.fastspring.com/softnik/product/desktop-basic?coupon=BLF2025). Server Editions: [Basic](https://sites.fastspring.com/softnik/instant/sedbasic?coupon=BLF2025), [Standard](https://sites.fastspring.com/softnik/instant/wmdsedstd?coupon=BLF2025), [Professional](https://sites.fastspring.com/softnik/instant/wmdsedpro?coupon=BLF2025) |
 
 
 [⬆️ Go to Top](#table-of-contents)
