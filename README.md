@@ -44,6 +44,7 @@ The best domain deals of Black Friday 2025:
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.com | $11.08 | $5.00 | UnstoppableDomains.com | Nov 28 | No Code Required |
+|.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
 
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
@@ -53,7 +54,7 @@ The best domain deals of Black Friday 2025:
 ### Geographic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-| **[SAMPLE ENTRY]** .us | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | SAMPLE2025 |
+|.ca | C$10.99 | C$7.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025CA |
 
 ### Industry/Purpose TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
