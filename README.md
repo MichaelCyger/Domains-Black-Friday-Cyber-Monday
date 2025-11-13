@@ -43,7 +43,7 @@ The best domain deals of Black Friday 2025:
 ### Classic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-| **[SAMPLE ENTRY]** .com | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | SAMPLE2025 |
+|.com | $11.08 | $5.00 | UnstoppableDomains.com | Nov 28 | No Code Required |
 
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
