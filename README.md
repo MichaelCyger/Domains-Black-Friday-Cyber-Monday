@@ -100,8 +100,7 @@ Discounts on premium domain names:
 ## 💻 Software
 | Company | Discount | Dates | Notes |
 |---------|----------|-------|--------|
-| **[SAMPLE ENTRY]** [Example Software Company](https://example.com) | Use code SAMPLE2025 for 99% Off | Nov 28 - Dec 1, 2025 11:59 PM PT | Applies to new subscriptions only |
-| **DomainDetails Pro** (https://domaindetails.com) | **50% off** (from 99€) | Nov 14 – Dec 1, 2025 | Valid for new Pro subscriptions |
+| **DomainDetails Pro** (https://domaindetails.com) | **50% off** (from 99€) — Code: **BFCM25** | Nov 14 – Dec 1, 2025 | Valid for new Pro subscriptions |
 
 
 [⬆️ Go to Top](#table-of-contents)
