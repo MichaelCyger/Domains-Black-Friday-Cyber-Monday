@@ -111,6 +111,7 @@ Discounts on premium domain names:
 | Topic | Original Price | Sale Price | Company | Dates | Notes |
 |--------|----------------|------------|-----------|--------|-------|
 | **[DNS for Developers (video course)](https://dnsfordevelopers.com)** | $149 | $49 | Nslookup.io | Nov 14 - Dec 1, 2025 | - |
+| **[NamePros Gold Upgrade](https://namepros.com)** | $120 | $10 | [NamePros.com](https://namepros.com) | Nov 28, 2025 | 1 year upgrade (normally $10/mo). Only applies to new upgrades on Black Friday |
 
 [⬆️ Go to Top](#table-of-contents)
 
