@@ -110,7 +110,7 @@ Discounts on premium domain names:
 ## 📚 Education
 | Topic | Original Price | Sale Price | Company | Dates | Notes |
 |--------|----------------|------------|-----------|--------|-------|
-| **[SAMPLE ENTRY]** [Example Course Title](https://example.com) | $999.99 | $0.01 | ExampleEducation | Nov 28 - Dec 1, 2025 | - |
+| **[DNS for Developers (video course)](https://dnsfordevelopers.com)** | $149 | $49 | Nslookup.io | Nov 14 - Dec 1, 2025 | - |
 
 [⬆️ Go to Top](#table-of-contents)
 
