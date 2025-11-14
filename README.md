@@ -92,9 +92,8 @@ Special pricing when registering multiple TLDs together:
 
 Discounts on premium domain names:
 
-| Category | Discount | Registrar | Dates | TLDs Included |
+| Category | Discount | Provider/Registrar | Dates | TLDs Included |
 |----------|----------|-----------|--------|---------------|
-| **[SAMPLE ENTRY]** 99% Off | 99% | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | .example, .sample, .test |
 | Premium Domain Names | 20% with code **BLACKFRIDAY2025**| [NameKnow.com](https://nameknow.com)| Nov 28 - Dec 1, 2025 00:00-23:59 UTC | all|
 
 [⬆️ Go to Top](#table-of-contents)
