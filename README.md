@@ -28,7 +28,7 @@ Total deals: 0
 - [📰 Sources](#-sources)
 - [🏷️ Add a Deal](#️-add-a-deal)
 
-## 🔥 Featured Deals
+## 🔥 Featured Deals (per [@MichaelCyger](https://x.com/michaelcyger))
 
 The best domain deals of Black Friday 2025:
 
@@ -45,26 +45,32 @@ The best domain deals of Black Friday 2025:
 |-----|----------------|------------|-----------|--------|------|
 |.com | $11.08 | $5.00 | UnstoppableDomains.com | Nov 28 | No Code Required |
 |.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
+|.org | $10.99 | $7.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-| **[SAMPLE ENTRY]** .io | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | SAMPLE2025 |
+|.cc | $8.99 | $3.39 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.co | $28.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+
 
 ### Geographic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.ca | C$10.99 | C$7.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025CA |
+|.us | $7.99 | $3.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 
 ### Industry/Purpose TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-| **[SAMPLE ENTRY]** .dev | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | SAMPLE2025 |
+|.app | $15.99 | $5.75 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+
 
 ### New gTLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-| **[SAMPLE ENTRY]** .xyz | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | SAMPLE2025 |
+|.club | $14.99 | $3.09 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 
 [⬆️ Go to Top](#table-of-contents)
 
