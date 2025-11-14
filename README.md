@@ -32,9 +32,12 @@ Total deals: 0
 
 The best domain deals of Black Friday 2025:
 
+_No featured deals selected yet. Check back soon!_
+
+<!--
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
-| **[SAMPLE ENTRY]** .example registration | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | SAMPLE2025 |
+-->
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -43,7 +46,7 @@ The best domain deals of Black Friday 2025:
 ### Classic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-|.com | $11.08 | $5.00 | UnstoppableDomains.com | Nov 28 | No Code Required |
+|.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
 |.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
 |.org | $10.99 | $7.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 
