@@ -48,13 +48,18 @@ _No featured deals selected yet. Check back soon!_
 |-----|----------------|------------|-----------|--------|------|
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
 |.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
+|.com | $14.98 | $9.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.net | $14.98 | $10.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 |.org | $10.99 | $7.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.org | $12.98 | $6.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.cc | $8.99 | $3.39 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.co | $28.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.co | $33.98 | $10.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.ai | $79.98 | $71.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 
 
 ### Geographic TLDs
@@ -62,11 +67,13 @@ _No featured deals selected yet. Check back soon!_
 |-----|----------------|------------|-----------|--------|------|
 |.ca | C$10.99 | C$7.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025CA |
 |.us | $7.99 | $3.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.us | $8.48 | $3.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 
 ### Industry/Purpose TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.app | $15.99 | $5.75 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.app | $17.98 | $5.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 
 
 ### New gTLDs
@@ -74,6 +81,9 @@ _No featured deals selected yet. Check back soon!_
 |-----|----------------|------------|-----------|--------|------|
 |.club | $14.99 | $3.09 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
+|.xyz | $19.48 | $1.28 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.online | $32.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.shop | $38.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 
 [⬆️ Go to Top](#table-of-contents)
 
