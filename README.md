@@ -34,8 +34,8 @@ The best domain deals of Black Friday 2025:
 
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
-|.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
 |.co | $28.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
 |.shop | $38.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 |.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 
