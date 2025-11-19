@@ -32,12 +32,12 @@ Total deals: 0
 
 The best domain deals of Black Friday 2025:
 
-_No featured deals selected yet. Check back soon!_
-
-<!--
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
--->
+|.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
+|.co | $28.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.shop | $38.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -129,7 +129,7 @@ Special pricing when registering multiple TLDs together:
 
 | Bundle | Original Price | Sale Price | Registrar | Dates | Notes |
 |--------|----------------|------------|-----------|--------|-------|
-| **[SAMPLE ENTRY]** .com + .net bundle | $99.99 | $0.01 | ExampleRegistrar | Nov 28 - Dec 1, 2025 00:00-23:59 UTC | Same SLD required |
+|.rsvp + .day Reg Bundle | $11.14 | $6.00 | [Dynadot.com](https://dynadot.com) | Nov 1 - Nov 30, 2025 | No Code Required |
 
 [⬆️ Go to Top](#table-of-contents)
 
