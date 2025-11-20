@@ -48,7 +48,7 @@ The best domain deals of Black Friday 2025:
 |-----|----------------|------------|-----------|--------|------|
 |.biz | $5.57 | $1.50 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | No Code Required |
 |.com | $14.98 | $9.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
-|.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
+|.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 & every Friday | No Code Required |
 |.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
 |.net | $14.98 | $10.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 |.org | $10.99 | $7.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
@@ -119,6 +119,7 @@ Deals for transferring domains between registrars:
 
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
+|.com | $11.08 | $5.55 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Until Dec 1, 2025 | No Code Required |
 |.com | $10.88 | $10.45 | [Dynadot.com](https://dynadot.com) | Nov 18 - Dec 1, 2025 | No Code Required |
 
 [⬆️ Go to Top](#table-of-contents)
