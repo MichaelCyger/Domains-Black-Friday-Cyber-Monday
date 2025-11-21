@@ -37,7 +37,7 @@ The best domain deals of Black Friday 2025:
 |------|----------------|------------|-----------|--------|------|
 |.co | $28.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
-|.shop | $38.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.shop | $38.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -47,70 +47,90 @@ The best domain deals of Black Friday 2025:
 ### Classic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-|.biz | $5.57 | $1.50 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | No Code Required |
-|.com | $14.98 | $9.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.biz | $5.57 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
+|.biz | $20.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.com | $14.98 | $7.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 & every Friday | No Code Required |
 |.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
-|.net | $14.98 | $10.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.net | $14.98 | $8.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.org | $10.99 | $7.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
-|.org | $12.98 | $6.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.org | $12.98 | $6.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-|.ai | $79.98 | $71.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.ai | $79.98 | $71.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.cc | $8.99 | $3.39 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.co | $28.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
-|.co | $33.98 | $10.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
-|.io | $28.89 | $21.40 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 3, 2025 | No Code Required |
+|.co | $33.98 | $10.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.dev | $15.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.io | $28.89 | $21.40 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 3, 2025 | No Code Required |
+|.io | $57.98 | $21.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.me | $19.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 
 
 ### Geographic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.ca | C$10.99 | C$7.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025CA |
-|.cv | $12.99 | $3.50 | [Dynadot.com](https://dynadot.com) | Nov 3 - Dec 5, 2025 | No Code Required |
+|.ca | $11.98 | $6.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.co.uk | $7.48 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.cv | $12.99 | $3.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 3 - Dec 5, 2025 | No Code Required |
+|.de | $6.98 | $5.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.in | $11.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.my | $32.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.us | $7.99 | $3.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
-|.us | $8.48 | $3.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.us | $8.48 | $3.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 
 ### Industry/Purpose TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.app | $15.99 | $5.75 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
-|.app | $17.98 | $5.98 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
-|.bot | $31.00 | $15.20 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.ceo | $9.70 | $3.00 | [Dynadot.com](https://dynadot.com) | Nov 29 - Dec 5, 2025 | No Code Required |
-|.deal | $20.55 | $9.85 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.design | $9.85 | $3.00 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | No Code Required |
-|.fast | $24.29 | $11.99 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.free | $20.55 | $11.45 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.hot | $24.83 | $13.06 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.now | $20.55 | $10.92 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.spot | $14.66 | $7.71 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.talk | $32.32 | $15.20 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
-|.you | $18.94 | $9.85 | [Dynadot.com](https://dynadot.com) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.app | $17.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.art | $25.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.bot | $31.00 | $15.20 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.ceo | $9.70 | $3.00 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 29 - Dec 5, 2025 | No Code Required |
+|.cloud | $26.98 | $0.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.deal | $20.55 | $9.85 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.design | $9.85 | $3.00 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
+|.design | $59.98 | $3.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.info | $24.98 | $2.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.pro | $24.98 | $2.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.site | $31.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.space | $24.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.store | $48.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.tech | $58.48 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.fast | $24.29 | $11.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.free | $20.55 | $11.45 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.hot | $24.83 | $13.06 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.now | $20.55 | $10.92 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.spot | $14.66 | $7.71 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.talk | $32.32 | $15.20 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.you | $18.94 | $9.85 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
 
 
 ### New gTLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
-|.bar | $2.99 | $0.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.click | $1.50 | $0.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.club | $4.00 | $1.50 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | No Code Required |
+|.bar | $2.99 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.click | $1.50 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.club | $4.00 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
 |.club | $14.99 | $3.09 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
-|.food | $4.99 | $1.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.forum | - | $1.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.help | $2.50 | $0.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.lifestyle | $4.99 | $1.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.living | $4.99 | $1.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.love | $4.50 | $2.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.online | $32.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
-|.rest | $1.99 | $0.99 | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 2, 2025 | No Code Required |
-|.shop | $38.98 | $0.48 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
-|.xin | $2.29 | $1.99 | [Dynadot.com](https://dynadot.com) | Nov 27 - Dec 2, 2025 | No Code Required |
-|.xyz | $1.99 | $1.50 | [Dynadot.com](https://dynadot.com) | Nov 12 - Dec 2, 2025 | No Code Required |
+|.club | $16.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.icu | $15.98 | $0.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.food | $4.99 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.forum | - | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.help | $2.50 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.lifestyle | $4.99 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.living | $4.99 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.love | $4.50 | $2.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.online | $32.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.rest | $1.99 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.shop | $38.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.xin | $2.29 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 27 - Dec 2, 2025 | No Code Required |
+|.xyz | $1.99 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 12 - Dec 2, 2025 | No Code Required |
 |.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
-|.xyz | $19.48 | $1.28 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
+|.xyz | $19.48 | $1.28 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 
 ### Web3
 | Deal | Discount | Registrar | Dates | Code | Notes |
@@ -125,7 +145,7 @@ Deals for transferring domains between registrars:
 
 | TLD | Original Price | Sale Price | Registrar | Dates | Code | Notes |
 |-----|----------------|------------|-----------|--------|------|-------|
-|.com | $10.88 | $10.45 | [Dynadot.com](https://dynadot.com) | Nov 18 - Dec 1, 2025 | No Code Required | - |
+|.com | $10.88 | $10.45 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 18 - Dec 1, 2025 | No Code Required | - |
 |.com | $11.08 | $5.55 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Until Dec 1, 2025 | No Code Required | - |
 | Web2 domains | - | $10 credit per transfer | [Freename.com](https://freename.com/freename-promotional-terms-and-conditions) | Until Dec 31, 2025 | No Code Required | $10 credit per completed Web2 domain transfer, usable only towards Web3 domains/TLDs. Not redeemable for cash or Web2 renewals/registrations. Excludes fraudulent or incomplete transfers. Not combinable with other transfer promotions. |
 
@@ -137,7 +157,7 @@ Special pricing when registering multiple TLDs together:
 
 | Bundle | Original Price | Sale Price | Registrar | Dates | Notes |
 |--------|----------------|------------|-----------|--------|-------|
-|.rsvp + .day Reg Bundle | $11.14 | $6.00 | [Dynadot.com](https://dynadot.com) | Nov 1 - Nov 30, 2025 | No Code Required |
+|.rsvp + .day Reg Bundle | $11.14 | $6.00 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 1 - Nov 30, 2025 | No Code Required |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -147,9 +167,9 @@ Discounts on premium domain names:
 
 | Category | Discount | Provider/Registrar | Dates | TLDs Included |
 |----------|----------|-----------|--------|---------------|
-| .biz Premium Domain Names | 20% off | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | .biz |
-| .club Premium Domain Names | 20% off | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | .club |
-| .design Premium Domain Names | 50% off | [Dynadot.com](https://dynadot.com) | Nov 24 - Dec 7, 2025 | .design |
+| .biz Premium Domain Names | 20% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | .biz |
+| .club Premium Domain Names | 20% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | .club |
+| .design Premium Domain Names | 50% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | .design |
 | Premium Domain Names | 20% with code **BLACKFRIDAY2025**| [NameKnow.com](https://nameknow.com)| Nov 28 - Dec 1, 2025 00:00-23:59 UTC | all|
 
 [⬆️ Go to Top](#table-of-contents)
