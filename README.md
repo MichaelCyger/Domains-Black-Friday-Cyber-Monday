@@ -20,6 +20,7 @@ Total deals: 0
   - [Geographic TLDs](#geographic-tlds)
   - [Industry/Purpose TLDs](#industrypurpose-tlds)
   - [New gTLDs](#new-gtlds)
+  - [Web3](#web3)
 - [🔄 Domain Transfer Deals](#-domain-transfer-deals)
 - [🎯 Bundle Deals](#-bundle-deals)
 - [💎 Premium Domain Deals](#-premium-domain-deals)
@@ -111,16 +112,22 @@ The best domain deals of Black Friday 2025:
 |.xyz | $13.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 |.xyz | $19.48 | $1.28 | [NameCheap.com](https://namecheap.com) | Nov 21 - Nov 28, 2025 | EARLYBIRDTLD25 |
 
+### Web3
+| Deal | Discount | Registrar | Dates | Code | Notes |
+|------|----------|-----------|-------|------|-------|
+| Up to 60% off Web3 domains + up to 6 free .COM domains | Up to 60% off + up to 6 free .COMs | [Freename.com](https://freename.com/freename-promotional-terms-and-conditions) | Until Dec 31, 2025 | SAVEBIG | Discounts and free .COM domain count increase with spend: spend $200+ for 40% off + 4 free .COMs; $400+ for 50% off + 5 free .COMs; $2,000+ for 60% off + 6 free .COMs. Applies to new Web3 domain registrations only. Free .COMs standard registrations, subject to availability. Cannot combine with other offers. |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔄 Domain Transfer Deals
 
 Deals for transferring domains between registrars:
 
-| TLD | Original Price | Sale Price | Registrar | Dates | Code |
-|-----|----------------|------------|-----------|--------|------|
-|.com | $10.88 | $10.45 | [Dynadot.com](https://dynadot.com) | Nov 18 - Dec 1, 2025 | No Code Required |
-|.com | $11.08 | $5.55 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Until Dec 1, 2025 | No Code Required |
+| TLD | Original Price | Sale Price | Registrar | Dates | Code | Notes |
+|-----|----------------|------------|-----------|--------|------|-------|
+|.com | $10.88 | $10.45 | [Dynadot.com](https://dynadot.com) | Nov 18 - Dec 1, 2025 | No Code Required | - |
+|.com | $11.08 | $5.55 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Until Dec 1, 2025 | No Code Required | - |
+| Web2 domains | - | $10 credit per transfer | [Freename.com](https://freename.com/freename-promotional-terms-and-conditions) | Until Dec 31, 2025 | No Code Required | $10 credit per completed Web2 domain transfer, usable only towards Web3 domains/TLDs. Not redeemable for cash or Web2 renewals/registrations. Excludes fraudulent or incomplete transfers. Not combinable with other transfer promotions. |
 
 [⬆️ Go to Top](#table-of-contents)
 
