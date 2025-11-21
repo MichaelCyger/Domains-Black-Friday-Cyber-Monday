@@ -72,13 +72,19 @@ The best domain deals of Black Friday 2025:
 ### Geographic TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
+|.asn.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
+|.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
 |.ca | C$10.99 | C$7.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025CA |
 |.ca | $11.98 | $6.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.co.uk | $7.48 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.com.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
+|.id.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
 |.cv | $12.99 | $3.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 3 - Dec 5, 2025 | No Code Required |
 |.de | $6.98 | $5.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.in | $11.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.my | $32.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.net.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
+|.org.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
 |.us | $7.99 | $3.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.us | $8.48 | $3.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 
@@ -113,6 +119,7 @@ The best domain deals of Black Friday 2025:
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.bar | $2.99 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.christmas | - | $2.00 | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, 1-year term |
 |.click | $1.50 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
 |.club | $4.00 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
 |.club | $14.99 | $3.09 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
