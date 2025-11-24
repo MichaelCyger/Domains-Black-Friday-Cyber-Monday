@@ -37,6 +37,7 @@ The best domain deals of Black Friday 2025:
 |------|----------------|------------|-----------|--------|------|
 |.co | $51.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
+|.com | $11.08 | $7.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | PIGGYBFCM25 (extra $1 off) |
 |.shop | $38.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.xyz | $23.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 
@@ -51,6 +52,7 @@ The best domain deals of Black Friday 2025:
 |.biz | $20.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.biz | $31.99 | $6.19 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.com | $14.98 | $7.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.com | $11.08 | $7.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | PIGGYBFCM25 (extra $1 off) |
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 & every Friday | No Code Required |
 |.com | C$15.49 | C$10.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025COM |
 |.net | $14.98 | $8.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
