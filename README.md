@@ -51,6 +51,7 @@ The best domain deals of Black Friday 2025:
 |.biz | $5.57 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
 |.biz | $20.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.biz | $31.99 | $6.19 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.biz | $15.96 | $1.54 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.com | $14.98 | $7.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.com | $11.08 | $7.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | PIGGYBFCM25 (extra $1 off) |
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 & every Friday | No Code Required |
@@ -66,10 +67,14 @@ The best domain deals of Black Friday 2025:
 |.cc | $15.99 | $3.39 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.co | $51.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.co | $33.98 | $10.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.co | $25.03 | $9.58 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 26 - Dec 2, 2025 | First year only |
 |.dev | $15.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.io | $28.89 | $21.40 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 3, 2025 | No Code Required |
 |.io | $57.98 | $21.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.io | $46.65 | $20.91 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.me | $19.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.me | $17.27 | $7.58 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 28 - Dec 4, 2025 | First year only |
+|.moi | $28.37 | $11.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.vip | $23.99 | $3.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 
 
@@ -80,6 +85,7 @@ The best domain deals of Black Friday 2025:
 |.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
 |.ca | C$10.99 | C$7.99 | [WHC.ca](https://whc.ca) | Nov 28 - Dec 1, 2025 | BF2025CA |
 |.ca | $11.98 | $6.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.ca | $8.74 | $6.61 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only, limited to 800 registrations |
 |.co.uk | $7.48 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.com.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
 |.id.au | - | Free (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, eligibility criteria apply |
@@ -98,57 +104,95 @@ The best domain deals of Black Friday 2025:
 |.app | $27.99 | $5.75 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.app | $17.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.art | $25.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.art | $21.11 | $1.99 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.bot | $31.00 | $15.20 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.bot | $67.28 | $22.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.ceo | $9.70 | $3.00 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 29 - Dec 5, 2025 | No Code Required |
+|.ceo | $88.05 | $10.01 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 29, 2025 | First year only |
 |.cloud | $26.98 | $0.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.cloud | $21.11 | $3.88 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.deal | $20.55 | $9.85 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.deal | $41.48 | $14.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.design | $9.85 | $3.00 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
 |.design | $59.98 | $3.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.design | $41.71 | $3.09 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.diy | $31.41 | $2.56 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.food | $31.41 | $2.56 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.forum | $31.41 | $2.56 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.info | $24.98 | $2.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.inc | $2,060.25 | $51.64 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.lifestyle | $31.41 | $2.56 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.living | $31.41 | $2.56 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.love | $23.17 | $2.56 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.one | $20.45 | $3.98 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.property | $103.50 | $10.80 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.realty | $288.88 | $10.80 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.pro | $24.98 | $2.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.site | $31.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.space | $24.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.store | $48.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.earth | $29.99 | $6.19 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.earth | $15.96 | $5.66 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.fast | $24.29 | $11.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.fast | $35.32 | $17.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.free | $20.55 | $11.45 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.free | $39.94 | $16.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.hot | $24.83 | $13.06 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.hot | $52.83 | $19.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.now | $20.55 | $10.92 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.now | $40.45 | $15.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.spot | $14.66 | $7.71 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.spot | $27.55 | $11.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.talk | $32.32 | $15.20 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.talk | $47.71 | $22.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.tech | $89.99 | $15.49 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.tech | $58.48 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.work | $15.99 | $1.89 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.you | $18.94 | $9.85 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25 - Dec 5, 2025 | No Code Required |
+|.you | $27.05 | $14.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 
 
 ### New gTLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
 |.bar | $2.99 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.bar | $52.01 | $1.53 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.bond | $9.78 | $1.80 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.buzz | $26.26 | $1.27 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.cfd | $9.78 | $1.23 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.christmas | - | $2.00 | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2025/) | Nov 12 - Nov 30, 2025 | New registrations only, 1-year term |
 |.click | $1.50 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.click | $10.81 | $1.53 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.club | $4.00 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 7, 2025 | No Code Required |
 |.club | $25.99 | $3.09 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.club | $16.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.club | $12.87 | $1.54 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.cyou | $9.78 | $1.23 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.icu | $15.98 | $0.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.icu | $9.78 | $1.54 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.food | $4.99 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
 |.forum | - | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
 |.help | $2.50 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.help | $26.26 | $1.53 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.lifestyle | $4.99 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
 |.living | $4.99 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
 |.love | $4.50 | $2.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
 |.online | $49.99 | $0.63 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.online | $32.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.rest | $1.99 | $0.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 24 - Dec 2, 2025 | No Code Required |
+|.rest | $26.26 | $1.53 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.qpon | $9.66 | $1.54 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
+|.sbs | $9.78 | $1.23 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.shop | $38.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.shop | $59.99 | $0.63 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
+|.shop | $25.23 | $2.06 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | First year only |
 |.store | $48.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.store | $79.99 | $0.63 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.xin | $2.29 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 27 - Dec 2, 2025 | No Code Required |
 |.xyz | $1.99 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 12 - Dec 2, 2025 | No Code Required |
 |.xyz | $23.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 |.xyz | $19.48 | $1.28 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
+|.xyz | $12.98 | $1.50 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Until Dec 2, 2025 | First year only |
 
 ### Web3
 | Deal | Discount | Registrar | Dates | Code | Notes |
