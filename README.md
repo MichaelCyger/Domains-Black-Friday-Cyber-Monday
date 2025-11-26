@@ -26,6 +26,7 @@ Total deals: 0
 - [💎 Premium Domain Deals](#-premium-domain-deals)
 - [💻 Software](#-software)
 - [📚 Education](#-education)
+- [👥 Memberships](#-memberships)
 - [📰 Sources](#-sources)
 - [🏷️ Add a Deal](#️-add-a-deal)
 
@@ -252,6 +253,14 @@ Discounts on premium domain names:
 |--------|----------------|------------|-----------|--------|-------|
 | **[DNS for Developers (video course)](https://dnsfordevelopers.com)** | $149 | $49 | Nslookup.io | Nov 14 - Dec 1, 2025 | - |
 | **[NamePros Gold Upgrade](https://namepros.com)** | $120 | $10 | [NamePros.com](https://namepros.com) | Nov 28, 2025 | 1 year upgrade (normally $10/mo). Only applies to new upgrades on Black Friday |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 👥 Memberships
+| Membership | Original Price | Sale Price | Company | Dates | Notes |
+|------------|----------------|------------|---------|-------|-------|
+| **ICA Individual Annual Membership** | $600 | $500 | [ICA](https://internetcommerce.org) | Nov 27 - Dec 1, 2025 | $100 off first year. Available to new Individual members only. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4YV81576R4826834YNETR2PA) |
+| **ICA Associate Annual Membership** | $300 | $200 | [ICA](https://internetcommerce.org) | Nov 27 - Dec 1, 2025 | $100 off first year. Available to new Individual members only. Associate membership designed for part-time and newer domain investors. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7KB95503TR156740TNETR4WY) |
 
 [⬆️ Go to Top](#table-of-contents)
 
