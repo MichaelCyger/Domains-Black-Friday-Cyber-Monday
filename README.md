@@ -39,6 +39,8 @@ The best domain deals of Black Friday 2025:
 |.co | $51.99 | $9.99 | [GoDaddy.com](https://godaddy.com) | Until Dec 31, 2025 | DDC Domain Pro members only, first year only |
 |.com | $11.08 | $5.00 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Nov 28 | No Code Required |
 |.com | $11.08 | $7.00 | [Porkbun.com](https://porkbun.com/event/blackfriday) | Nov 24, 2025 | PIGGYBFCM25 (extra $1 off) |
+|ICA Individual Annual Membership | $600 | $500 | [ICA](https://internetcommerce.org) | Nov 27 - Dec 1, 2025 | $100 off first year, new members only |
+|ICA Associate Annual Membership | $300 | $200 | [ICA](https://internetcommerce.org) | Nov 27 - Dec 1, 2025 | $100 off first year, new members only |
 |.shop | $38.98 | $0.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 21 - Nov 28, 2025 | MATRIXTLD25 |
 |.xyz | $23.99 | $0.85 | [GoDaddy.com](https://godaddy.com) | Until Dec 2, 2025 | DDC Domain Pro members only, first year only |
 
@@ -259,8 +261,8 @@ Discounts on premium domain names:
 ## 👥 Memberships
 | Membership | Original Price | Sale Price | Company | Dates | Notes |
 |------------|----------------|------------|---------|-------|-------|
-| **ICA Individual Annual Membership** | $600 | $500 | [ICA](https://internetcommerce.org) | Nov 27 - Dec 1, 2025 | $100 off first year. Available to new Individual members only. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4YV81576R4826834YNETR2PA) |
-| **ICA Associate Annual Membership** | $300 | $200 | [ICA](https://internetcommerce.org) | Nov 27 - Dec 1, 2025 | $100 off first year. Available to new Individual members only. Associate membership designed for part-time and newer domain investors. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7KB95503TR156740TNETR4WY) |
+| **ICA Individual Annual Membership** | $600 | $500 | [ICA](https://www.internetcommerce.org/join/) | Nov 27 - Dec 1, 2025 | $100 off first year. Available to new Individual members only. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4YV81576R4826834YNETR2PA) |
+| **ICA Associate (Basic) Annual Membership** | $300 | $200 | [ICA](https://www.internetcommerce.org/join/) | Nov 27 - Dec 1, 2025 | For part-time investors making <$50k per year. $100 off first year. Available to new Individual members only. Associate membership designed for part-time and newer domain investors. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7KB95503TR156740TNETR4WY) |
 
 [⬆️ Go to Top](#table-of-contents)
 
