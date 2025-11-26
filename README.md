@@ -240,7 +240,7 @@ Discounts on premium domain names:
 | Company | Discount | Dates | Notes |
 |---------|----------|-------|--------|
 | **Appraise.net** ([appraise.net](https://appraise.net/subscription?coupon=DOMAINER80)) | **80% off** everything — Code: **DOMAINER80** | Until Dec 3, 2025 11:59 PM MST | All plans & credit packs. Enterprise Annual: $1,919.90 → $383.98 (1,700 credits/mo). Professional Annual: $1,199.90 → $239.98 (800 credits/mo). Business Annual: $599.90 → $119.98 (400 credits/mo) |
-| **AtomPay** ([atom.com/pay](https://atom.com/pay)) | **Flat $10 fee per transaction** (any amount) + **Free 1-year .com renewal** | Until Dec 31, 2025 | $100 flip or $10M deal—same $10 fee. Starts now through 2025. Start Selling & Saving! |
+| **AtomPay** ([atom.com/pay](https://atom.com/pay)) | **Flat $10 fee per transaction** (any amount) + **Free 1-year .com renewal** | Until Dec 31, 2025 | Apply to all any domain, including active Standard and Plus listings when you import a lead (no delisting required) |
 | **DomainDetails Pro** (https://domaindetails.com) | **50% off** (from 99€) — Code: **BFCM25** | Nov 14 – Dec 1, 2025 | Valid for new Pro subscriptions |
 | **Watch My Domains** ([DomainPunch.com](https://domainpunch.com)) | **50% off** full price — Code: **BLF2025** | Until Dec 2, 2025 | Desktop Editions (Windows/Mac): [Business](https://sites.fastspring.com/softnik/product/desktop-business?coupon=BLF2025), [Basic](https://sites.fastspring.com/softnik/product/desktop-basic?coupon=BLF2025). Server Editions: [Basic](https://sites.fastspring.com/softnik/instant/sedbasic?coupon=BLF2025), [Standard](https://sites.fastspring.com/softnik/instant/wmdsedstd?coupon=BLF2025), [Professional](https://sites.fastspring.com/softnik/instant/wmdsedpro?coupon=BLF2025) |
 
