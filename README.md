@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 145
+Total deals: 146
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -27,6 +27,7 @@ Total deals: 145
 - [💻 Software](#-software)
 - [📚 Education](#-education)
 - [👥 Memberships](#-memberships)
+  - [Other](#other)
 - [📰 Sources](#-sources)
 - [🏷️ Add a Deal](#️-add-a-deal)
 
@@ -264,6 +265,11 @@ Discounts on premium domain names:
 |------------|----------------|------------|---------|-------|-------|
 | **ICA Individual Annual Membership** | $600 | $500 | [ICA](https://www.internetcommerce.org/join/) | Nov 27 - Dec 1, 2025 | $100 off first year. Available to new Individual members only. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4YV81576R4826834YNETR2PA) |
 | **ICA Associate (Basic) Annual Membership** | $300 | $200 | [ICA](https://www.internetcommerce.org/join/) | Nov 27 - Dec 1, 2025 | For part-time investors making <$50k per year. $100 off first year. Available to new Individual members only. Associate membership designed for part-time and newer domain investors. [PayPal Link](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7KB95503TR156740TNETR4WY) |
+
+### Other
+| Deal | Original Price | Sale Price | Company | Dates | Notes |
+|------|----------------|------------|---------|-------|-------|
+| **Add Funds Balance Bonus** | - | +25% bonus (up to $25,000) | [eDomains.com](https://edomains.com) | Nov 28, 2025 (CST) | Add funds on Nov 28, 2025 and open support ticket within 48 hours to receive +25% bonus balance. Bonus valid for 12 months. Use on registrations, renewals, transfers, backorders, auctions, and any product. [Terms](https://edomains.com/knowledgebase/48/Black-Friday-Balance-Bonus-Promotion-2025.html) |
 
 [⬆️ Go to Top](#table-of-contents)
 
