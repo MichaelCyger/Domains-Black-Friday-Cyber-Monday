@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 177
+Total deals: 178
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -287,6 +287,7 @@ Discounts on premium domain names:
 |--------|----------------|------------|-----------|--------|-------|
 | **[DNS for Developers (video course)](https://dnsfordevelopers.com)** | $149 | $49 | Nslookup.io | Nov 14 - Dec 1, 2025 | - |
 | **[NamePros Gold Upgrade](https://namepros.com)** | $120 | $10 | [NamePros.com](https://namepros.com) | Nov 28, 2025 | 1 year upgrade (normally $10/mo). Only applies to new upgrades on Black Friday |
+| **[NamePros Gold Upgrade](https://namepros.com)** | $240 | $99 | [NamePros.com](https://namepros.com) | Nov 29 - Dec 1, 2025 | 2 years of Gold ($240 value). Cyber Monday deal |
 
 [⬆️ Go to Top](#table-of-contents)
 
