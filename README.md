@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 178
+Total deals: 179
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -276,6 +276,7 @@ Discounts on premium domain names:
 | **Appraise.net** ([appraise.net](https://appraise.net/subscription?coupon=DOMAINER80)) | **80% off** everything — Code: **DOMAINER80** | Until Dec 3, 2025 11:59 PM MST | All plans & credit packs. Enterprise Annual: $1,919.90 → $383.98 (1,700 credits/mo). Business Annual: $959.90 → $191.98 (600 credits/mo). Professional Annual: $479.90 → $95.98 (240 credits/mo). Starter Annual: $287.90 → $57.58 (120 credits/mo). Also applies to credit packs and monthly plans |
 | **AtomPay** ([atom.com/pay](https://atom.com/pay)) | **Flat $10 fee per transaction** (any amount) + **Free 1-year .com renewal** | Until Dec 31, 2025 | Apply to all any domain, including active Standard and Plus listings when you import a lead (no delisting required) |
 | **DomainDetails Pro** (https://domaindetails.com) | **50% off** (from 99€) — Code: **BFCM25** | Nov 14 – Dec 1, 2025 | Valid for new Pro subscriptions |
+| **[NameBio Collector and Domainer tiers](https://namebio.com/memberships)** | Use code **CYBER50** for **50% Off** | Dec 1 - Dec 2, 2025 11:59 PM PT | Applies to Yearly subscriptions or first 3 months of Monthly, new subscriptions only |
 | **UpSnatch** ([upsnatch.com](https://upsnatch.com/black-friday.html)) | **96% off** first month — Code: **BLACKFRIDAY25** | Until Dec 7, 2025 11:59 PM CET | First month €0.99 (96% off, regular price €24.99) – cancel anytime |
 | **Watch My Domains** ([DomainPunch.com](https://domainpunch.com)) | **50% off** full price — Code: **BLF2025** | Until Dec 2, 2025 | Desktop Editions (Windows/Mac): [Business](https://sites.fastspring.com/softnik/product/desktop-business?coupon=BLF2025), [Basic](https://sites.fastspring.com/softnik/product/desktop-basic?coupon=BLF2025). Server Editions: [Basic](https://sites.fastspring.com/softnik/instant/sedbasic?coupon=BLF2025), [Standard](https://sites.fastspring.com/softnik/instant/wmdsedstd?coupon=BLF2025), [Professional](https://sites.fastspring.com/softnik/instant/wmdsedpro?coupon=BLF2025) |
 
