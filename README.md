@@ -234,13 +234,15 @@ The best domain deals of Black Friday 2025:
 
 ## 🔄 Domain Transfer Deals
 
+Deals for transferring domains between registrars:
+
+| TLD | Original Price | Sale Price | Registrar | Dates | Code | Notes |
 |-----|----------------|------------|-----------|--------|------|-------|
+| Web2 domains | - | $10 credit per transfer | [Freename.com](https://freename.com/freename-promotional-terms-and-conditions) | Until Dec 31, 2025 | No Code Required | $10 credit per completed Web2 domain transfer, usable only towards Web3 domains/TLDs. Not redeemable for cash or Web2 renewals/registrations. Excludes fraudulent or incomplete transfers. Not combinable with other transfer promotions. |
 |.com | $10.88 | $10.45 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 18 - Dec 1, 2025 | No Code Required | - |
 |.com | $11.95 | $10.80 | [NameSilo.com](https://www.namesilo.com/domain/transfer-domains) | Nov 1 - Dec 31, 2025 | No Code Required | - |
 |.com | $11.08 | $5.55 | [UnstoppableDomains.com](https://unstoppabledomains.com) | Until Dec 1, 2025 | No Code Required | - |
-| TLD | Original Price | Sale Price | Registrar | Dates | Code | Notes |
-| Web2 domains | - | $10 credit per transfer | [Freename.com](https://freename.com/freename-promotional-terms-and-conditions) | Until Dec 31, 2025 | No Code Required | $10 credit per completed Web2 domain transfer, usable only towards Web3 domains/TLDs. Not redeemable for cash or Web2 renewals/registrations. Excludes fraudulent or incomplete transfers. Not combinable with other transfer promotions. |
-Deals for transferring domains between registrars:
+
 
 
 
