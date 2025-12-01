@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 179
+Total deals: 180
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -228,6 +228,7 @@ The best domain deals of Black Friday 2025:
 ### Web3
 | Deal | Discount | Registrar | Dates | Code | Notes |
 |------|----------|-----------|-------|------|-------|
+| .agt | 20% off | [Freename.com](https://www.linkedin.com/posts/agtdomains_save-20-on-agtdomain-registrations-with-activity-7400951239015948291-YJ0f) | Nov 30 - Dec 2, 2025 | CYBERMONDAY20 | - |
 | Up to 60% off Web3 domains + up to 6 free .COM domains | Up to 60% off + up to 6 free .COMs | [Freename.com](https://freename.com/freename-promotional-terms-and-conditions) | Until Dec 31, 2025 | SAVEBIG | Discounts and free .COM domain count increase with spend: spend $200+ for 40% off + 4 free .COMs; $400+ for 50% off + 5 free .COMs; $2,000+ for 60% off + 6 free .COMs. Applies to new Web3 domain registrations only. Free .COMs standard registrations, subject to availability. Cannot combine with other offers. |
 
 [⬆️ Go to Top](#table-of-contents)
