@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thanks for submitting a deal to the 🌐 Domain Name Black Friday / Cyber Monday Deals - 2025 💰 repo.
+Thanks for submitting a deal to the 🌐 Domain Name Black Friday / Cyber Monday Deals - 2026 💰 repo.
 
 ✅ Please:
 - Only add legitimate domain name-related Black Friday / Cyber Monday deals
