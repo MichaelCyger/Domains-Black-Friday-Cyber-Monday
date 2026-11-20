@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 184
+Total deals: 191
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -49,6 +49,7 @@ The best domain deals of Black Friday 2026:
 |.biz | $23.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.biz | $19.05 | $6.69 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
 |.com | $16.20 | $5.00 | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | BFCOM (max 1, first year, includes free LLC) |
+|.com | $12.99 | $9.19 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.com | $15.98 | $8.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.com | - | 30% off | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2026/) | Nov 12, 2026 09:00 - Dec 3, 2026 23:59 | New registrations only, up to 5 years |
 |.info | $28.98 | $3.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
@@ -60,13 +61,17 @@ The best domain deals of Black Friday 2026:
 ### Popular Alternative TLDs
 | TLD | Original Price | Sale Price | Registrar | Dates | Code |
 |-----|----------------|------------|-----------|--------|------|
+|.ai | $209.98 | $149.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.ai | $89.98 | $77.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5, 2-year minimum) |
 |.co | $15.50 | $2.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 27, 2026 00:00 - Dec 5, 2026 16:00 UTC | No Code Required |
+|.co | $17.99 | $4.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.co | $38.48 | $3.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.dev | $8.00 | $5.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25, 2026 16:00 - Dec 2, 2026 16:00 UTC | No Code Required |
 |.dev | $15.98 | $5.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
+|.io | $59.99 | $12.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.io | $65.98 | $27.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.me | $9.21 | $1.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 27 - Dec 3, 2026 23:59 UTC | No Code Required |
+|.me | $14.99 | $1.89 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.me | $19.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.moi | $21.40 | $7.71 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 16 - Dec 6, 2026 23:59 UTC | No Code Required |
 |.moi | $21.11 | $7.72 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
@@ -97,6 +102,7 @@ The best domain deals of Black Friday 2026:
 |.nyc | $26.97 | $5.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Dec 6, 2026 23:59 UTC | No Code Required |
 |.org.au | - | $2 (1yr) / 50% off (2-5yr) | [VentraIP.com.au](https://ventraip.com.au/blog/black-friday-sale-2026/) | Nov 12, 2026 09:00 - Dec 3, 2026 23:59 | New registrations only, eligibility criteria apply |
 |.pw | $18.33 | $4.43 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
+|.si | $11.99 | $10.79 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.si | $15.48 | $12.28 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.us | $7.00 | $4.43 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
 
@@ -227,6 +233,7 @@ The best domain deals of Black Friday 2026:
 |.website | $21.11 | $1.96 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
 |.world | $37.59 | $2.57 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
 |.xyz | $1.99 | $1.50 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 12 - Dec 2, 2026 23:59 UTC | No Code Required |
+|.xyz | $1.49 | $0.49 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.xyz | $21.48 | $1.28 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.xyz | $14.21 | $1.29 | [Porkbun.com](https://porkbun.com/event/blackfriday/) | Nov 2 - Dec 4, 2026 11:59 PM UTC | PIGGYBFCM26 (extra $1 off, first year) |
 |.za.com | $311.17 | $10.08 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 4, 2026 18:00 - Dec 26, 2026 18:00 UTC | No Code Required |
@@ -302,6 +309,7 @@ Discounts on premium domain names:
 ## 📰 Sources
 
 - [Dynadot Black Friday Sale](https://www.dynadot.com/black-friday-sale)
+- [GoDaddy Discount Domain Club](https://www.godaddy.com/domains/discount-domain-club)
 - [Namecheap Black Friday](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/)
 - [Carrd Black Friday](https://x.com/carrd/status/2121302574649196712)
 - [Porkbun Black Friday](https://porkbun.com/event/blackfriday/)
