@@ -37,6 +37,8 @@ The best domain deals of Black Friday 2026:
 | Deal | Original Price | Sale Price | Registrar | Dates | Code |
 |------|----------------|------------|-----------|--------|------|
 |.com | $16.20 | $5.00 | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | BFCOM (max 1, first year, includes free LLC) |
+|.io | $59.99 | $12.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
+|.app | $8.00 | $5.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25, 2026 16:00 - Dec 2, 2026 16:00 UTC | No Code Required |
 
 [⬆️ Go to Top](#table-of-contents)
 
