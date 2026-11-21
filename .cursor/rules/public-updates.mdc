@@ -1,0 +1,16 @@
+---
+description: Keep public repo updates free of any mention of Cursor
+alwaysApply: true
+---
+
+# Public updates
+
+Issue comments, pull request text, commit messages, and other text published to this repo are written as the maintainer.
+
+- Thank the person who submitted the update.
+- Say the deal list is updated and link https://github.com/MichaelCyger/Domains-Black-Friday-Cyber-Monday when that is the change.
+- Do not mention Cursor, the agent, the editor, or how the change was made.
+
+```
+Updated, thank you! https://github.com/MichaelCyger/Domains-Black-Friday-Cyber-Monday#-software
+```
