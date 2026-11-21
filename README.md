@@ -285,7 +285,7 @@ Discounts on premium domain names:
 | Company | Discount | Dates | Notes |
 |---------|----------|-------|--------|
 | **[Carrd](https://try.carrd.com/bf2026)** | **40% off** all Pro plans — Code: **BF2026** | Since Nov 13, 2026 | Upgrades (Basic to Pro Lite, Pro Standard, or Pro Plus), renewals, and gifts. Extra years can be stacked even if the plan is not expiring. End date not announced. [Post](https://x.com/carrd/status/2121302574649196712) |
-| **[UpSnatch](https://upsnatch.com/black-friday.html)** | **96% off** first month — Code: **BLACKFRIDAY25** | End date not announced | First month €0.99 (regular €24.99), then €24.99/month. Cancel anytime. |
+| **[UpSnatch](https://upsnatch.com/black-friday.html)** | **Up to 58% off** Pro for life (no code) | Through Nov 30, 2026 23:59 CET | Lock monthly Pro at a lifetime rate. Opening tier $29/mo (reg. $69) / €25 (reg. €59); price climbs as limited spots sell out ($39 → $49 → $55). Cancel anytime. |
 
 [⬆️ Go to Top](#table-of-contents)
 
