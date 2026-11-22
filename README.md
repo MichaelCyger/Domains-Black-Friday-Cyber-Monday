@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 191
+Total deals: 192
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -39,6 +39,7 @@ The best domain deals of Black Friday 2026:
 |.com | $16.20 | $5.00 | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | BFCOM (max 1, first year, includes free LLC) |
 |.io | $59.99 | $12.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.app | $8.00 | $5.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25, 2026 16:00 - Dec 2, 2026 16:00 UTC | No Code Required |
+| Appraise.net | - | 50% off everything | [Appraise.net](https://appraise.net/specials) | Until Nov 30, 2026 11:59 PM Arizona time | BF2650 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -286,6 +287,7 @@ Discounts on premium domain names:
 |---------|----------|-------|--------|
 | **[Carrd](https://try.carrd.com/bf2026)** | **40% off** all Pro plans — Code: **BF2026** | Since Nov 13, 2026 | Upgrades (Basic to Pro Lite, Pro Standard, or Pro Plus), renewals, and gifts. Extra years can be stacked even if the plan is not expiring. End date not announced. [Post](https://x.com/carrd/status/2121302574649196712) |
 | **[UpSnatch](https://upsnatch.com/black-friday.html)** | **Up to 58% off** Pro for life (no code) | Through Nov 30, 2026 23:59 CET | Lock monthly Pro at a lifetime rate. Opening tier $29/mo (reg. $69) / €25 (reg. €59); price climbs as limited spots sell out ($39 → $49 → $55). Cancel anytime. |
+| **[Appraise.net](https://appraise.net/specials)** | **50% off** everything — Code: **BF2650** | Until Nov 30, 2026 11:59 PM Arizona time | Any plan: 50% off the first payment (an annual plan is half off the first year). Lifetime: 50% off. Credit packs: 50% off, as often as you like (active plan or Lifetime required). Code also works when changing plans. Marketplace domain purchases excluded. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -318,6 +320,7 @@ Discounts on premium domain names:
 - [Atom Black Friday](https://www.atom.com/black-friday-sale)
 - [VentraIP Black Friday](https://ventraip.com.au/blog/black-friday-sale-2026/)
 - [UpSnatch Black Friday](https://upsnatch.com/black-friday.html)
+- [Appraise.net Black Friday](https://appraise.net/specials)
 
 [⬆️ Go to Top](#table-of-contents)
 
