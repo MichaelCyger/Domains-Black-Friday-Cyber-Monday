@@ -1,0 +1,14 @@
+---
+description: Recount Total deals whenever README offer text changes
+alwaysApply: true
+---
+
+# Deal count
+
+Whenever you add, remove, or edit offer text in `README.md` (prices, dates, codes, notes, new rows, or removed rows), recount and update `Total deals:` in the table of contents in the same change.
+
+Count each data row in the offer tables. Skip header rows, the Featured Deals table, and rows marked `SAMPLE ENTRY`.
+
+```
+Total deals: 200
+```
