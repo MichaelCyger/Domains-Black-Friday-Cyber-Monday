@@ -1,0 +1,18 @@
+---
+description: Style for graphics that go with deal-list update posts
+alwaysApply: true
+---
+
+# Deal update posts
+
+When the user is already signed into X in the Cursor browser, draft and publish from that browser session. Do not start an X plugin login or any other X authentication.
+
+# Deal update graphics
+
+When the user asks for a social post or update about this deal list and wants a graphic, make a clean 16:9 image in this style and show it before posting.
+
+- Dark navy background (`#07142B`) and a thin electric-blue vertical bar on the left.
+- One large white headline, then a short light-blue subtitle, then two or three white lines for the deals being highlighted.
+- Flat type only. No photos, logos, fake UI, watermarks, URLs, or corner captions.
+- Put the deal count in the headline when the update is about the list size.
+- Match the post: only the deals named in the copy, with the price or discount, nothing else.
