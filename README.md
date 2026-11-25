@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 200
+Total deals: 201
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -68,6 +68,7 @@ The best domain deals of Black Friday 2026:
 |.ai | $209.98 | $149.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.ai | $89.98 | $77.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5, 2-year minimum) |
 |.co | $15.50 | $2.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 27, 2026 00:00 - Dec 5, 2026 16:00 UTC | No Code Required |
+|.co | $20.99 | $7.99 | [Gname.com](https://www.gname.com/us/price/co.html) | Nov 27 - Dec 5, 2026 UTC | first year only |
 |.co | $17.99 | $4.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.co | $38.48 | $3.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
 |.dev | $8.00 | $5.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25, 2026 16:00 - Dec 2, 2026 16:00 UTC | No Code Required |
@@ -282,7 +283,7 @@ Discounts on premium domain names:
 | .blog premium names | 75% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Jan 6 - Dec 31, 2026 23:59 UTC | .blog |
 | .cv premium names | 50% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Oct 22 - Dec 21, 2026 23:59 UTC | .cv |
 | Premium names | 30% off | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Dec 6, 2026 23:59 UTC | .bar, .click, .diy, .food, .forum, .help, .lifestyle, .living, .love, .my, .property, .realty, .rest |
-| Premium domains listed on Atom | 25% off | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | All extensions. No code. |
+| Premium domains listed on Atom | 25% off | [Atom.com](https://www.atom.com/black-friday-sale) | Until Dec 7, 2026 | All extensions. No code. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -329,6 +330,7 @@ Discounts on premium domain names:
 - [VentraIP Black Friday](https://ventraip.com.au/blog/black-friday-sale-2026/)
 - [UpSnatch Black Friday](https://upsnatch.com/black-friday.html)
 - [Appraise.net Black Friday](https://appraise.net/specials)
+- [Gname .CO Black Friday](https://x.com/gnamedotcom/status/2125418196601831875)
 
 [⬆️ Go to Top](#table-of-contents)
 
