@@ -40,6 +40,11 @@ The best domain deals of Black Friday 2026:
 |.io | $59.99 | $12.99 | [GoDaddy.com](https://www.godaddy.com/domains/discount-domain-club) | Ongoing | DDC Domain Pro members only, first year only |
 |.app | $8.00 | $5.60 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 25, 2026 16:00 - Dec 2, 2026 16:00 UTC | No Code Required |
 | Appraise.net | - | 50% off everything | [Appraise.net](https://appraise.net/specials) | Until Nov 30, 2026 11:59 PM Arizona time | BF2650 |
+|.co | $38.48 | $3.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
+|.me | $19.98 | $1.98 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
+|.xyz | $17.94 | $1.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
+|.org | $14.48 | $6.48 | [NameCheap.com](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) | Nov 20 - Dec 4, 2026 11:59 PM EST | THEGAMESTLD26 (max 5) |
+|.io | $64.69 | $21.00 | [Atom.com](https://www.atom.com/black-friday-sale) | End date not announced | No Code Required (first year, new registrations only) |
 
 [⬆️ Go to Top](#table-of-contents)
 
