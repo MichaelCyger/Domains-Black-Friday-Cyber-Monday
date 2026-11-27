@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 260
+Total deals: 263
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -333,6 +333,9 @@ Special pricing when registering multiple TLDs together:
 | .com + .org + .net | $27.10 | $19.99 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Nov 30, 2026 23:59 UTC | No Code Required |
 | .io + .tech | - | $19.99 | [Name.com](https://www.name.com/promo/cyber-monday) | Nov 25, 2026 12:00 PM - Nov 30, 2026 11:59 PM MT | No Code Required. First year only. New registrations only. Retail only. |
 | .site + .online | $5.00 | $2.25 | [Dynadot.com](https://www.dynadot.com/black-friday-sale) | Nov 23 - Dec 6, 2026 23:59 UTC | No Code Required |
+| Mystery Box Portfolio Pack (70 random .com) | $950.00 | $825.00 | [DNX.com](https://dnx.com/mystery-box?v=2) | Through Nov 30, 2026 (end of day), while supplies last | No Code Required. 70 randomly selected new .com registrations, first year only. Return all 70 within 30 minutes for $825.00 in DNX store credit (limit 1 buyback every 30 days). DNX account required. |
+| Mystery Box Single (1 random .com) | $15.00 | $11.99 | [DNX.com](https://dnx.com/mystery-box?v=2) | Through Nov 30, 2026 (end of day), while supplies last | No Code Required. 1 randomly selected new .com registration, first year only. Return it within 10 minutes for $11.99 in DNX store credit (limit 5 buybacks every 30 days). DNX account required. |
+| Mystery Box Starter Pack (7 random .com) | $100.00 | $83.19 | [DNX.com](https://dnx.com/mystery-box?v=2) | Through Nov 30, 2026 (end of day), while supplies last | No Code Required. 7 randomly selected new .com registrations, first year only. Return all 7 within 10 minutes for $83.19 in DNX store credit (limit 3 buybacks every 30 days). DNX account required. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -400,6 +403,7 @@ Discounts on premium domain names:
 - [NameSilo Black Friday](https://www.namesilo.com/sales/black-friday)
 - [NameBio Memberships](https://namebio.com/memberships)
 - [NotRenewing Seller Plans](https://www.notrenewing.com/sell/unified-plans?billing=year)
+- [DNX Mystery Boxes](https://dnx.com/mystery-box?v=2)
 
 [⬆️ Go to Top](#table-of-contents)
 
