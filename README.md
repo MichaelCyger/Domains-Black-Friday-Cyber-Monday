@@ -11,7 +11,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 259
+Total deals: 260
 
 - [🔥 Featured Deals](#-featured-deals)
 - [📝 Domain Registration](#-domain-registration)
@@ -358,6 +358,7 @@ Discounts on premium domain names:
 | **[Dynadot Website Builder](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro — Code: **BFSITE26** | Nov 23, 2026 00:00 - Dec 2, 2026 00:00 UTC | Drag-and-drop site builder. |
 | **[tiny.BIO](https://www.dynadot.com/black-friday-sale)** | **50% off** Pro | Nov 23, 2026 00:00 - Dec 1, 2026 00:00 UTC | No code. Link-in-bio page on your own domain. |
 | **[NameBio Collector and Domainer tiers](https://namebio.com/memberships)** | **50% off** — Code: **CYBER50** | Through Nov 30, 2026 23:59 PST | Applies to yearly subscriptions or first 3 months of monthly, new subscriptions only. |
+| **[NotRenewing](https://www.notrenewing.com/sell/unified-plans?billing=year)** | **50% off** annual seller plans vs. paying monthly (no code) | Nov 24, 2026 06:00 - Dec 1, 2026 06:00 UTC | Starter $30.00/yr (reg. $50.00), Growth $72.00/yr (reg. $120.00), Pro $150.00/yr (reg. $250.00), Business $294.00/yr (reg. $490.00), Enterprise $594.00/yr (reg. $990.00), Enterprise Plus $1,188.00/yr (reg. $1,980.00). 40% off the annual list price. First year only; renews at annual list. Card payments only. [Post](https://x.com/Not_Renewing/status/2126334255563448716) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -398,6 +399,7 @@ Discounts on premium domain names:
 - [Name.com Cyber Monday](https://www.name.com/promo/cyber-monday)
 - [NameSilo Black Friday](https://www.namesilo.com/sales/black-friday)
 - [NameBio Memberships](https://namebio.com/memberships)
+- [NotRenewing Seller Plans](https://www.notrenewing.com/sell/unified-plans?billing=year)
 
 [⬆️ Go to Top](#table-of-contents)
 
